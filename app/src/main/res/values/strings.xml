@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">demodemidova</string>
+    <string name="onb1title">Анализы</string>
+    <string name="onb2title">Экспресс сбор и получение проб</string>
+    <string name="onb3title">Пропустить</string>
+    <string name="onb4title">Уведомления</string>
+    <string name="onb5title">Вы быстро узнаете о результатах</string>
+    <string name="onb6title">Мониторинг</string>
+    <string name="onb7title">Наши врачи всегда наблюдают за вашими показателями здоровья</string>
+    <string name="onb8title">Завершить</string>
+</resources>
